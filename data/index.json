@@ -172,6 +172,15 @@
       "totalChapters": 12
     },
     {
+      "id": "the-starlight-crystal-christopher-pike-2012",
+      "title": "The Starlight Crystal Christopher Pike 2012",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 41492,
+      "totalPages": 42,
+      "totalChapters": 9
+    },
+    {
       "id": "the-three-body-problem",
       "title": "The Three-Body Problem",
       "author": "Cixin Liu",
@@ -208,5 +217,5 @@
       "totalChapters": 27
     }
   ],
-  "updatedAt": "2026-04-15T05:13:34.664Z"
+  "updatedAt": "2026-04-15T05:33:13.640Z"
 }
