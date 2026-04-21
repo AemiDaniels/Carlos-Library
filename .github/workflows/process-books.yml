@@ -24,7 +24,9 @@ jobs:
           node-version: '20'
 
       - name: Install calibre (for mobi/azw3)
-        run: sudo DEBIAN_FRONTEND=noninteractive apt-get install -y calibre
+        run: |
+          sudo apt-get update
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y calibre
 
 
       - name: Install dependencies
