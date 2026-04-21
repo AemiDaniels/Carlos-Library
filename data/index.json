@@ -19,15 +19,6 @@
       "totalChapters": 198
     },
     {
-      "id": "dune",
-      "title": "Dune",
-      "author": "Frank Herbert",
-      "description": "Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, “Dune” tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice” melange, the most important and valuable substance in the universe. The story explores the complex and multi-",
-      "totalWords": 207126,
-      "totalPages": 208,
-      "totalChapters": 58
-    },
-    {
       "id": "godel-escher-bach-an-eternal-golden-braid",
       "title": "Godel, Escher, Bach-An Eternal Golden Braid",
       "author": "Douglas R. Hofstadter",
@@ -35,6 +26,15 @@
       "totalWords": 324196,
       "totalPages": 325,
       "totalChapters": 65
+    },
+    {
+      "id": "exploring-the-edge-realms-of-consciousness",
+      "title": "Exploring the Edge Realms of Consciousness",
+      "author": "Daniel Pinchbeck",
+      "description": "A diverse group of authors journey into the fringes of human consciousness, tackling psychic and paranormal phenomena, lucid dreaming, synchronistic encounters, and more. Collected from the online magazine Reality Sandwich, these essays explore regions of the mind often traversed by shamans, mystics, and visionary artists; adjacent and contiguous to our normal waking state, these realms may be encountered in dreams or out-of-body experiences, accessed through meditation or plant medicines, and m",
+      "totalWords": 110380,
+      "totalPages": 111,
+      "totalChapters": 34
     },
     {
       "id": "house-of-leaves",
@@ -62,6 +62,15 @@
       "totalWords": 119986,
       "totalPages": 120,
       "totalChapters": 24
+    },
+    {
+      "id": "liminal-spaces",
+      "title": "Liminal Spaces",
+      "author": "Kevin Lucia",
+      "description": "Liminal Spaces is a quiet horror anthology from Cemetery Gates Media featuring stories from well-known dark fiction writers such as: Joanna Koch, Jessica McHugh, Mark Allan Gunnells, Anthony J. Rapino, Gwendolyn Kiste, Michael Wehunt, Bob Ford, Kelli Owen, Richard Thomas, Todd Keisling, Chad Lutzke, Kristi DeMeester, Joshua Palmatier, and Norman Prentiss. “The word ‘liminal’ comes from the Latin root limen. It means ‘threshold'. A liminal space is a ‘crossing over’ space–a space where you have l",
+      "totalWords": 66280,
+      "totalPages": 67,
+      "totalChapters": 19
     },
     {
       "id": "nonlinear-dynamics-and-chaos",
@@ -217,5 +226,5 @@
       "totalChapters": 27
     }
   ],
-  "updatedAt": "2026-04-15T07:37:00.398Z"
+  "updatedAt": "2026-04-21T22:50:06.013Z"
 }
