@@ -23,16 +23,9 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install calibre (for mobi/azw3)
-        run: |
-          shopt -s nullglob
-          mobi_files=(books/*.mobi books/*.azw3)
-          if [ ${#mobi_files[@]} -gt 0 ]; then
-            echo "mobi/azw3 files found, installing calibre..."
-            sudo DEBIAN_FRONTEND=noninteractive apt-get install -y calibre
-          else
-            echo "No mobi/azw3 files — skipping calibre install"
-          fi
+           - name: Install calibre (for mobi/azw3)
+        run: sudo DEBIAN_FRONTEND=noninteractive apt-get install -y calibre
+
 
       - name: Install dependencies
         run: npm install
@@ -50,4 +43,4 @@ jobs:
           git push
 
       - name: Purge jsDelivr cache
-        run: curl -sf "https://purge.jsdelivr.net/gh/sinxisterrr/Sage-Library@main/data/index.json" || true
+        run: curl -sf "https://purge.jsdelivr.net/gh/aemidaniels/carlos-library@main/data/index.json" || true
