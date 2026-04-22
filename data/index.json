@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "1984",
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "",
+      "totalWords": 106125,
+      "totalPages": 107,
+      "totalChapters": 22
+    },
+    {
       "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
       "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
       "author": "Levine, Amir",
@@ -224,7 +233,25 @@
       "totalWords": 134403,
       "totalPages": 135,
       "totalChapters": 27
+    },
+    {
+      "id": "learning-to-love-the-spaces-in-between",
+      "title": "Learning to Love the Spaces in Between",
+      "author": "Claire Gillman",
+      "description": "The word liminal comes from the Latin word 'limen', meaning threshold. A liminal space is the 'crossing over' space, the time between 'what was' and the 'what is to come', and a place of transition and possibility. Each of us experiences liminality in our lives &#8211; learning how to navigate and embrace its power can enhance our wellbeing and our understanding of the world. Being in liminal space can be unnerving, yet it is often where insight, creativity and inspiration are found. Liminality ",
+      "totalWords": 58806,
+      "totalPages": 59,
+      "totalChapters": 16
+    },
+    {
+      "id": "the-mall-remastered",
+      "title": "The Mall Remastered",
+      "author": "Nick Erickson",
+      "description": "",
+      "totalWords": 11683,
+      "totalPages": 12,
+      "totalChapters": 3
     }
   ],
-  "updatedAt": "2026-04-21T22:50:06.013Z"
+  "updatedAt": "2026-04-22T04:15:10.080Z"
 }

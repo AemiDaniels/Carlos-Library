@@ -1,0 +1,33 @@
+{
+  "id": "the-mall-remastered",
+  "title": "The Mall Remastered",
+  "author": "Nick Erickson",
+  "description": "",
+  "filename": "liminal mall.pdf",
+  "totalWords": 11683,
+  "totalPages": 12,
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 1683,
+      "pageCount": 2,
+      "startPage": 11
+    }
+  ]
+}
