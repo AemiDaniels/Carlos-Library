@@ -251,7 +251,16 @@
       "totalWords": 11683,
       "totalPages": 12,
       "totalChapters": 3
+    },
+    {
+      "id": "watership-down",
+      "title": "Watership Down",
+      "author": "Richard Adams",
+      "description": "",
+      "totalWords": 164937,
+      "totalPages": 165,
+      "totalChapters": 60
     }
   ],
-  "updatedAt": "2026-04-22T04:15:10.080Z"
+  "updatedAt": "2026-06-15T11:53:35.773Z"
 }

@@ -1,0 +1,432 @@
+{
+  "id": "watership-down",
+  "title": "Watership Down",
+  "author": "Richard Adams",
+  "description": "",
+  "filename": "watership down_richard adams.epub",
+  "totalWords": 164937,
+  "totalPages": 165,
+  "totalChapters": 60,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 116,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "About the Author",
+      "wordCount": 263,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Copyright Page",
+      "wordCount": 198,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Acknowledgements",
+      "wordCount": 134,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Note",
+      "wordCount": 43,
+      "pageCount": 1,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Contents",
+      "wordCount": 334,
+      "pageCount": 1,
+      "startPage": 6
+    },
+    {
+      "index": 7,
+      "title": "1. The Notice Board",
+      "wordCount": 1753,
+      "pageCount": 2,
+      "startPage": 7
+    },
+    {
+      "index": 8,
+      "title": "2. The Chief Rabbit",
+      "wordCount": 1616,
+      "pageCount": 2,
+      "startPage": 9
+    },
+    {
+      "index": 9,
+      "title": "3. Hazel’s Decision",
+      "wordCount": 1051,
+      "pageCount": 2,
+      "startPage": 11
+    },
+    {
+      "index": 10,
+      "title": "4. The Departure",
+      "wordCount": 1908,
+      "pageCount": 2,
+      "startPage": 13
+    },
+    {
+      "index": 11,
+      "title": "5. In the Woods",
+      "wordCount": 1448,
+      "pageCount": 2,
+      "startPage": 15
+    },
+    {
+      "index": 12,
+      "title": "6. The Story of the Blessing of El-ahrairah",
+      "wordCount": 1280,
+      "pageCount": 2,
+      "startPage": 17
+    },
+    {
+      "index": 13,
+      "title": "7. The Lendri and the River",
+      "wordCount": 1101,
+      "pageCount": 2,
+      "startPage": 19
+    },
+    {
+      "index": 14,
+      "title": "8. The Crossing",
+      "wordCount": 2147,
+      "pageCount": 3,
+      "startPage": 21
+    },
+    {
+      "index": 15,
+      "title": "9. The Crow and the Beanfield",
+      "wordCount": 1905,
+      "pageCount": 2,
+      "startPage": 24
+    },
+    {
+      "index": 16,
+      "title": "10. The Road and the Common",
+      "wordCount": 3142,
+      "pageCount": 4,
+      "startPage": 26
+    },
+    {
+      "index": 17,
+      "title": "11. Hard Going",
+      "wordCount": 1501,
+      "pageCount": 2,
+      "startPage": 30
+    },
+    {
+      "index": 18,
+      "title": "12. The Stranger in the Field",
+      "wordCount": 4546,
+      "pageCount": 5,
+      "startPage": 32
+    },
+    {
+      "index": 19,
+      "title": "13. Hospitality",
+      "wordCount": 3142,
+      "pageCount": 4,
+      "startPage": 37
+    },
+    {
+      "index": 20,
+      "title": "14. ‘Like Trees in November’",
+      "wordCount": 4852,
+      "pageCount": 5,
+      "startPage": 41
+    },
+    {
+      "index": 21,
+      "title": "15. The Story of the King’s Lettuce",
+      "wordCount": 2553,
+      "pageCount": 3,
+      "startPage": 46
+    },
+    {
+      "index": 22,
+      "title": "16. Silverweed",
+      "wordCount": 1820,
+      "pageCount": 2,
+      "startPage": 49
+    },
+    {
+      "index": 23,
+      "title": "17. The Shining Wire",
+      "wordCount": 4697,
+      "pageCount": 5,
+      "startPage": 51
+    },
+    {
+      "index": 24,
+      "title": "18. Watership Down",
+      "wordCount": 2780,
+      "pageCount": 3,
+      "startPage": 56
+    },
+    {
+      "index": 25,
+      "title": "19. Fear in the Dark",
+      "wordCount": 3624,
+      "pageCount": 4,
+      "startPage": 59
+    },
+    {
+      "index": 26,
+      "title": "20. A Honeycomb and a Mouse",
+      "wordCount": 3792,
+      "pageCount": 4,
+      "startPage": 63
+    },
+    {
+      "index": 27,
+      "title": "21. ‘For El-ahrairah to Cry’",
+      "wordCount": 4344,
+      "pageCount": 5,
+      "startPage": 67
+    },
+    {
+      "index": 28,
+      "title": "22. The Story of the Trial of El-ahrairah",
+      "wordCount": 6179,
+      "pageCount": 7,
+      "startPage": 72
+    },
+    {
+      "index": 29,
+      "title": "23. Kehaar",
+      "wordCount": 6333,
+      "pageCount": 7,
+      "startPage": 79
+    },
+    {
+      "index": 30,
+      "title": "24. Nuthanger Farm",
+      "wordCount": 3127,
+      "pageCount": 4,
+      "startPage": 86
+    },
+    {
+      "index": 31,
+      "title": "25. The Raid",
+      "wordCount": 6880,
+      "pageCount": 7,
+      "startPage": 90
+    },
+    {
+      "index": 32,
+      "title": "26. Fiver Beyond",
+      "wordCount": 1583,
+      "pageCount": 2,
+      "startPage": 97
+    },
+    {
+      "index": 33,
+      "title": "27. ‘You Can’t Imagine it Unless You’ve been There’",
+      "wordCount": 5116,
+      "pageCount": 6,
+      "startPage": 99
+    },
+    {
+      "index": 34,
+      "title": "28. At the Foot of the Hill",
+      "wordCount": 3098,
+      "pageCount": 4,
+      "startPage": 105
+    },
+    {
+      "index": 35,
+      "title": "29. Return and Departure",
+      "wordCount": 2450,
+      "pageCount": 3,
+      "startPage": 109
+    },
+    {
+      "index": 36,
+      "title": "30. A New Journey",
+      "wordCount": 2341,
+      "pageCount": 3,
+      "startPage": 112
+    },
+    {
+      "index": 37,
+      "title": "31. The Story of El-ahrairah and the Black Rabbit of Inlé",
+      "wordCount": 5366,
+      "pageCount": 6,
+      "startPage": 115
+    },
+    {
+      "index": 38,
+      "title": "32. Across the Iron Road",
+      "wordCount": 2696,
+      "pageCount": 3,
+      "startPage": 121
+    },
+    {
+      "index": 39,
+      "title": "33. The Great River",
+      "wordCount": 4687,
+      "pageCount": 5,
+      "startPage": 124
+    },
+    {
+      "index": 40,
+      "title": "34. General Woundwort",
+      "wordCount": 3429,
+      "pageCount": 4,
+      "startPage": 129
+    },
+    {
+      "index": 41,
+      "title": "35. Groping",
+      "wordCount": 6660,
+      "pageCount": 7,
+      "startPage": 133
+    },
+    {
+      "index": 42,
+      "title": "36. Approaching Thunder",
+      "wordCount": 1741,
+      "pageCount": 2,
+      "startPage": 140
+    },
+    {
+      "index": 43,
+      "title": "37. The Thunder Builds Up",
+      "wordCount": 3740,
+      "pageCount": 4,
+      "startPage": 142
+    },
+    {
+      "index": 44,
+      "title": "38. The Thunder Breaks",
+      "wordCount": 5610,
+      "pageCount": 6,
+      "startPage": 146
+    },
+    {
+      "index": 45,
+      "title": "39. The Bridges",
+      "wordCount": 4497,
+      "pageCount": 5,
+      "startPage": 152
+    },
+    {
+      "index": 46,
+      "title": "40. The Way Back",
+      "wordCount": 4542,
+      "pageCount": 5,
+      "startPage": 157
+    },
+    {
+      "index": 47,
+      "title": "41. The Story of Rowsby Woof and the Fairy Wogdog",
+      "wordCount": 4787,
+      "pageCount": 5,
+      "startPage": 162
+    },
+    {
+      "index": 48,
+      "title": "42. News at Sunset",
+      "wordCount": 2551,
+      "pageCount": 3,
+      "startPage": 167
+    },
+    {
+      "index": 49,
+      "title": "43. The Great Patrol",
+      "wordCount": 2618,
+      "pageCount": 3,
+      "startPage": 170
+    },
+    {
+      "index": 50,
+      "title": "44. A Message from El-ahrairah",
+      "wordCount": 2910,
+      "pageCount": 3,
+      "startPage": 173
+    },
+    {
+      "index": 51,
+      "title": "45. Nuthanger Farm Again",
+      "wordCount": 1969,
+      "pageCount": 2,
+      "startPage": 176
+    },
+    {
+      "index": 52,
+      "title": "46. Bigwig Stands his Ground",
+      "wordCount": 2849,
+      "pageCount": 3,
+      "startPage": 178
+    },
+    {
+      "index": 53,
+      "title": "47. The Sky Suspended",
+      "wordCount": 3653,
+      "pageCount": 4,
+      "startPage": 181
+    },
+    {
+      "index": 54,
+      "title": "48. Dea ex Machina",
+      "wordCount": 1818,
+      "pageCount": 2,
+      "startPage": 185
+    },
+    {
+      "index": 55,
+      "title": "49. Hazel Comes Home",
+      "wordCount": 1432,
+      "pageCount": 2,
+      "startPage": 187
+    },
+    {
+      "index": 56,
+      "title": "50. And Last",
+      "wordCount": 2880,
+      "pageCount": 3,
+      "startPage": 189
+    },
+    {
+      "index": 57,
+      "title": "Epilogue",
+      "wordCount": 955,
+      "pageCount": 1,
+      "startPage": 192
+    },
+    {
+      "index": 58,
+      "title": "1. The Notice Board",
+      "wordCount": 179,
+      "pageCount": 1,
+      "startPage": 193
+    },
+    {
+      "index": 59,
+      "title": "19. Fear in the Dark",
+      "wordCount": 99,
+      "pageCount": 1,
+      "startPage": 194
+    },
+    {
+      "index": 60,
+      "title": "Page 280",
+      "wordCount": 72,
+      "pageCount": 1,
+      "startPage": 195
+    }
+  ]
+}
