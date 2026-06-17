@@ -10,6 +10,15 @@
       "totalChapters": 22
     },
     {
+      "id": "animal-farm-orwell-george",
+      "title": "Animal Farm Orwell, George",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 30888,
+      "totalPages": 31,
+      "totalChapters": 7
+    },
+    {
       "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
       "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
       "author": "Levine, Amir",
@@ -26,6 +35,15 @@
       "totalWords": 140963,
       "totalPages": 141,
       "totalChapters": 198
+    },
+    {
+      "id": "fahrenheit-451",
+      "title": "Fahrenheit 451",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 46092,
+      "totalPages": 47,
+      "totalChapters": 10
     },
     {
       "id": "godel-escher-bach-an-eternal-golden-braid",
@@ -107,6 +125,24 @@
       "totalWords": 149588,
       "totalPages": 150,
       "totalChapters": 30
+    },
+    {
+      "id": "secret-window-secret-garden-stephen-king",
+      "title": "Secret Window - Secret Garden Stephen King",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 298041,
+      "totalPages": 299,
+      "totalChapters": 60
+    },
+    {
+      "id": "file-d-documents-and-settings-administrator-local-settings-t",
+      "title": "file://D:\\Documents and Settings\\Administrator\\Local Settings\\T",
+      "author": "Administrator",
+      "description": "",
+      "totalWords": 45464,
+      "totalPages": 46,
+      "totalChapters": 10
     },
     {
       "id": "the-alignment-problem",
@@ -253,6 +289,42 @@
       "totalChapters": 3
     },
     {
+      "id": "the-bicentennial-man-and-other-stories",
+      "title": "The Bicentennial Man and other stories",
+      "author": "Isaac Asimov",
+      "description": "",
+      "totalWords": 77940,
+      "totalPages": 78,
+      "totalChapters": 1
+    },
+    {
+      "id": "the-chrysalids",
+      "title": "The Chrysalids",
+      "author": "John Wyndham",
+      "description": "The Chyrsalids is set in the future after a devastating global nuclear war. David, the young hero of the novel, lives in a tight-knit community of religious and genetic fundamentalists, always on the alert for any deviation from the norm of God’s creation. Abnormal plants are publicly burned, with much singing of hymns. Abnormal humans (who are not really human) are also condemned to destruction—unless they succeed in fleeing to the Fringes, that Wild Country where, as the authorities say, nothi",
+      "totalWords": 69870,
+      "totalPages": 70,
+      "totalChapters": 17
+    },
+    {
+      "id": "the-langoliers-fpm-1",
+      "title": "The Langoliers (fpm-1)",
+      "author": "Stephen King",
+      "description": "The Langoliers take a red-eye flight form Los Angeles to Boston into a most unfriendly sky. Only 10 passengers survive, but landing in an eerily empty world makes them wish they hadn't. Something is waiting for them, you see.",
+      "totalWords": 89799,
+      "totalPages": 90,
+      "totalChapters": 136
+    },
+    {
+      "id": "the-road",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "description": "",
+      "totalWords": 62733,
+      "totalPages": 63,
+      "totalChapters": 14
+    },
+    {
       "id": "watership-down",
       "title": "Watership Down",
       "author": "Richard Adams",
@@ -262,5 +334,5 @@
       "totalChapters": 60
     }
   ],
-  "updatedAt": "2026-06-15T11:53:35.773Z"
+  "updatedAt": "2026-06-17T05:15:43.843Z"
 }
