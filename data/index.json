@@ -46,6 +46,15 @@
       "totalChapters": 10
     },
     {
+      "id": "fish-in-a-barrel-entityverse-era-1",
+      "title": "Fish In A Barrel - (Entityverse Era 1)",
+      "author": "Aemi Daniels",
+      "description": "",
+      "totalWords": 34946,
+      "totalPages": 35,
+      "totalChapters": 7
+    },
+    {
       "id": "godel-escher-bach-an-eternal-golden-braid",
       "title": "Godel, Escher, Bach-An Eternal Golden Braid",
       "author": "Douglas R. Hofstadter",
@@ -334,5 +343,5 @@
       "totalChapters": 60
     }
   ],
-  "updatedAt": "2026-07-11T02:48:35.588Z"
+  "updatedAt": "2026-07-11T02:54:49.572Z"
 }
