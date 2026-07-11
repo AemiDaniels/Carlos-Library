@@ -1,0 +1,40 @@
+{
+  "id": "dogfight-entityverse-era-1",
+  "title": "Dogfight - (Entityverse Era 1)",
+  "author": "Aemi Daniels",
+  "description": "",
+  "filename": "Dogfight - (Entityverse Era 1).pdf",
+  "totalWords": 16824,
+  "totalPages": 17,
+  "totalChapters": 4,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 11
+    },
+    {
+      "index": 4,
+      "title": "Part 4",
+      "wordCount": 1824,
+      "pageCount": 2,
+      "startPage": 16
+    }
+  ]
+}

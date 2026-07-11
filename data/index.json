@@ -28,6 +28,15 @@
       "totalChapters": 24
     },
     {
+      "id": "bravado-entityverse-era-1-docx-google-docs",
+      "title": "Bravado - (Entityverse Era 1).docx - Google Docs",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 10422,
+      "totalPages": 11,
+      "totalChapters": 3
+    },
+    {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
       "title": "Does God Play Dice?: The New Mathematics of Chaos",
       "author": "Ian Stewart",
@@ -35,6 +44,15 @@
       "totalWords": 140963,
       "totalPages": 141,
       "totalChapters": 198
+    },
+    {
+      "id": "dogfight-entityverse-era-1",
+      "title": "Dogfight - (Entityverse Era 1)",
+      "author": "Aemi Daniels",
+      "description": "",
+      "totalWords": 16824,
+      "totalPages": 17,
+      "totalChapters": 4
     },
     {
       "id": "fahrenheit-451",
@@ -73,6 +91,15 @@
       "totalChapters": 34
     },
     {
+      "id": "hourglass-entityverse-era-1-docx-google-docs",
+      "title": "Hourglass - (Entityverse Era 1).docx - Google Docs",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 2138,
+      "totalPages": 3,
+      "totalChapters": 1
+    },
+    {
       "id": "house-of-leaves",
       "title": "House of Leaves",
       "author": "Mark Z. Danielewski",
@@ -80,6 +107,15 @@
       "totalWords": 195141,
       "totalPages": 196,
       "totalChapters": 40
+    },
+    {
+      "id": "improvised-entityverse-era-1-docx-google-docs",
+      "title": "Improvised - (Entityverse Era 1).docx - Google Docs",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 1574,
+      "totalPages": 2,
+      "totalChapters": 1
     },
     {
       "id": "letters-to-a-young-poet",
@@ -143,6 +179,15 @@
       "totalWords": 298041,
       "totalPages": 299,
       "totalChapters": 60
+    },
+    {
+      "id": "shock-retention-entityverse-era-1-docx-google-docs",
+      "title": "Shock Retention - (Entityverse Era 1).docx - Google Docs",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 18976,
+      "totalPages": 19,
+      "totalChapters": 4
     },
     {
       "id": "file-d-documents-and-settings-administrator-local-settings-t",
@@ -343,5 +388,5 @@
       "totalChapters": 60
     }
   ],
-  "updatedAt": "2026-07-11T02:54:49.572Z"
+  "updatedAt": "2026-07-11T06:16:42.191Z"
 }

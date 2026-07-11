@@ -1,0 +1,33 @@
+{
+  "id": "bravado-entityverse-era-1-docx-google-docs",
+  "title": "Bravado - (Entityverse Era 1).docx - Google Docs",
+  "author": "Unknown",
+  "description": "",
+  "filename": "Bravado - (Entityverse Era 1).pdf",
+  "totalWords": 10422,
+  "totalPages": 11,
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 422,
+      "pageCount": 1,
+      "startPage": 11
+    }
+  ]
+}

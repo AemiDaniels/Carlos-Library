@@ -1,0 +1,40 @@
+{
+  "id": "shock-retention-entityverse-era-1-docx-google-docs",
+  "title": "Shock Retention - (Entityverse Era 1).docx - Google Docs",
+  "author": "Unknown",
+  "description": "",
+  "filename": "Shock Retention - (Entityverse Era 1).pdf",
+  "totalWords": 18976,
+  "totalPages": 19,
+  "totalChapters": 4,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 11
+    },
+    {
+      "index": 4,
+      "title": "Part 4",
+      "wordCount": 3976,
+      "pageCount": 4,
+      "startPage": 16
+    }
+  ]
+}
