@@ -1,0 +1,26 @@
+{
+  "id": "challenging-lateral-thinking-puzzles",
+  "title": "Challenging lateral thinking puzzles",
+  "author": "Sloane, Paul, 1950-;MacHale, Des;Miller, Myron, 1948- ill",
+  "description": "",
+  "filename": "Challenging lateral thinking puzzles (Sloane, Paul, 1950-, MacHale, Des, Miller etc).pdf",
+  "totalWords": 9912,
+  "totalPages": 10,
+  "totalChapters": 2,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 4912,
+      "pageCount": 5,
+      "startPage": 6
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "101-puzzles-in-thought-and-logic-math-logic-puzzles",
+  "title": "101 Puzzles in Thought and Logic (Math & Logic Puzzles)",
+  "author": "C. R. Wylie Jr.",
+  "description": "",
+  "filename": "101 Puzzles in Thought and Logic (Math  Logic Puzzles) (C R Wylie Jr).pdf",
+  "totalWords": 19062,
+  "totalPages": 20,
+  "totalChapters": 4,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 11
+    },
+    {
+      "index": 4,
+      "title": "Part 4",
+      "wordCount": 4062,
+      "pageCount": 5,
+      "startPage": 16
+    }
+  ]
+}

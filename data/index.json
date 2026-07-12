@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "101-puzzles-in-thought-and-logic-math-logic-puzzles",
+      "title": "101 Puzzles in Thought and Logic (Math & Logic Puzzles)",
+      "author": "C. R. Wylie Jr.",
+      "description": "",
+      "totalWords": 19062,
+      "totalPages": 20,
+      "totalChapters": 4
+    },
+    {
       "id": "1984",
       "title": "1984",
       "author": "George Orwell",
@@ -28,6 +37,15 @@
       "totalChapters": 24
     },
     {
+      "id": "bill-harvey-big-mate-puzzles-collection-4638-grandmaster-puzzles-mates-in-2-to-mates-in-13",
+      "title": "Bill Harvey BIG Mate puzzles Collection - 4638 Grandmaster Puzzles - Mates in 2 to Mates in 13",
+      "author": "Tomasz",
+      "description": "",
+      "totalWords": 65841,
+      "totalPages": 66,
+      "totalChapters": 14
+    },
+    {
       "id": "bravado-entityverse-era-1-docx-google-docs",
       "title": "Bravado - (Entityverse Era 1).docx - Google Docs",
       "author": "Unknown",
@@ -35,6 +53,24 @@
       "totalWords": 10422,
       "totalPages": 11,
       "totalChapters": 3
+    },
+    {
+      "id": "brother-to-dragons-companion-to-owls",
+      "title": "Brother To Dragons, Companion To Owls",
+      "author": "Lindskold, Jane",
+      "description": "",
+      "totalWords": 69248,
+      "totalPages": 70,
+      "totalChapters": 14
+    },
+    {
+      "id": "challenging-lateral-thinking-puzzles",
+      "title": "Challenging lateral thinking puzzles",
+      "author": "Sloane, Paul, 1950-;MacHale, Des;Miller, Myron, 1948- ill",
+      "description": "",
+      "totalWords": 9912,
+      "totalPages": 10,
+      "totalChapters": 2
     },
     {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
@@ -226,6 +262,15 @@
       "totalChapters": 37
     },
     {
+      "id": "the-code-book-the-science-of-secrecy-from-ancient-egypt-to",
+      "title": "The Code Book_ The Science of Secrecy from Ancient Egypt to",
+      "author": "Simon Singh",
+      "description": "",
+      "totalWords": 125369,
+      "totalPages": 126,
+      "totalChapters": 26
+    },
+    {
       "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
       "title": "The Essence of Chaos (The Jessie and John Danz Lecture",
       "author": "Edward N. Lorenz",
@@ -233,6 +278,15 @@
       "totalWords": 69901,
       "totalPages": 70,
       "totalChapters": 14
+    },
+    {
+      "id": "the-everything-lateral-thinking-puzzles-book",
+      "title": "The Everything Lateral Thinking Puzzles Book",
+      "author": "Nikki Katz",
+      "description": "",
+      "totalWords": 60584,
+      "totalPages": 61,
+      "totalChapters": 13
     },
     {
       "id": "the-hidden-life-of-trees",
@@ -343,6 +397,15 @@
       "totalChapters": 3
     },
     {
+      "id": "on-cats",
+      "title": "On Cats",
+      "author": "Bukowski, Charles",
+      "description": "A raw and tenderly funny look at the human-cat relationship, from one of our most treasured and transgressive writers. *“The cat is the beautiful devil.”* Felines touched a vulnerable spot in Charles Bukowski’s crusty soul. For the writer, there was something majestic and elemental about these inscrutable creatures he admired, sentient beings whose searing gaze could penetrate deep into our being. Bukowski considered cats to be unique forces of nature, elusive emissaries of beauty and love. *On ",
+      "totalWords": 13205,
+      "totalPages": 14,
+      "totalChapters": 56
+    },
+    {
       "id": "the-bicentennial-man-and-other-stories",
       "title": "The Bicentennial Man and other stories",
       "author": "Isaac Asimov",
@@ -359,6 +422,15 @@
       "totalWords": 69870,
       "totalPages": 70,
       "totalChapters": 17
+    },
+    {
+      "id": "the-hidden-language-of-cats-how-they-have-us-at-meow",
+      "title": "The Hidden Language of Cats: How They Have Us at Meow",
+      "author": "Sarah Brown, PhD",
+      "description": "Descended from shy, solitary North African wild cats, domestic cats set up homes with devoted owners all over the world by learning how to talk to us. This book translates&mdash;in case you missed anything. A renowned cat behavior scientist of over thirty years, Dr. Sarah Brown has been at the forefront of research in the field, discovering how cats use tail signals to interact with each other and their owners. Now, she reveals the previously unexplored secrets of cat communication in a book tha",
+      "totalWords": 78654,
+      "totalPages": 79,
+      "totalChapters": 26
     },
     {
       "id": "the-langoliers-fpm-1",
@@ -388,5 +460,5 @@
       "totalChapters": 60
     }
   ],
-  "updatedAt": "2026-07-11T06:16:42.191Z"
+  "updatedAt": "2026-07-12T06:11:43.151Z"
 }
