@@ -1,0 +1,33 @@
+{
+  "id": "imprint-academic",
+  "title": "Imprint Academic",
+  "author": "Unknown",
+  "description": "",
+  "filename": "Imprint Academic - 2007.pdf",
+  "totalWords": 11840,
+  "totalPages": 12,
+  "totalChapters": 3,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 1840,
+      "pageCount": 2,
+      "startPage": 11
+    }
+  ]
+}

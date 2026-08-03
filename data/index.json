@@ -73,6 +73,15 @@
       "totalChapters": 2
     },
     {
+      "id": "microsoft-word-consciousness-book-eprint-docx",
+      "title": "Microsoft Word - Consciousness.Book.Eprint.docx",
+      "author": "User",
+      "description": "",
+      "totalWords": 25557,
+      "totalPages": 26,
+      "totalChapters": 6
+    },
+    {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
       "title": "Does God Play Dice?: The New Mathematics of Chaos",
       "author": "Ian Stewart",
@@ -89,6 +98,15 @@
       "totalWords": 16824,
       "totalPages": 17,
       "totalChapters": 4
+    },
+    {
+      "id": "epiphenomenal-qualia-frank-jackson",
+      "title": "Epiphenomenal Qualia - Frank Jackson",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 5313,
+      "totalPages": 6,
+      "totalChapters": 2
     },
     {
       "id": "fahrenheit-451",
@@ -143,6 +161,15 @@
       "totalWords": 195141,
       "totalPages": 196,
       "totalChapters": 40
+    },
+    {
+      "id": "imprint-academic",
+      "title": "Imprint Academic",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 11840,
+      "totalPages": 12,
+      "totalChapters": 3
     },
     {
       "id": "improvised-entityverse-era-1-docx-google-docs",
@@ -379,6 +406,15 @@
       "totalChapters": 27
     },
     {
+      "id": "a-short-stay-in-hell",
+      "title": "A Short Stay in Hell",
+      "author": "Steven L. Peck",
+      "description": "",
+      "totalWords": 27222,
+      "totalPages": 28,
+      "totalChapters": 7
+    },
+    {
       "id": "learning-to-love-the-spaces-in-between",
       "title": "Learning to Love the Spaces in Between",
       "author": "Claire Gillman",
@@ -442,6 +478,15 @@
       "totalChapters": 136
     },
     {
+      "id": "the-raw-shark-texts",
+      "title": "The Raw Shark Texts",
+      "author": "Steven Hall",
+      "description": "",
+      "totalWords": 105936,
+      "totalPages": 106,
+      "totalChapters": 42
+    },
+    {
       "id": "the-road",
       "title": "The Road",
       "author": "Cormac McCarthy",
@@ -449,6 +494,15 @@
       "totalWords": 62733,
       "totalPages": 63,
       "totalChapters": 14
+    },
+    {
+      "id": "there-is-no-antimemetics-division",
+      "title": "There Is No Antimemetics Division",
+      "author": "qntm",
+      "description": "",
+      "totalWords": 0,
+      "totalPages": 0,
+      "totalChapters": 0
     },
     {
       "id": "watership-down",
@@ -460,5 +514,5 @@
       "totalChapters": 60
     }
   ],
-  "updatedAt": "2026-07-12T06:11:43.151Z"
+  "updatedAt": "2026-08-03T10:44:18.659Z"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "epiphenomenal-qualia-frank-jackson",
+  "title": "Epiphenomenal Qualia - Frank Jackson",
+  "author": "Unknown",
+  "description": "",
+  "filename": "Epiphenomenal Qualia - Frank Jackson.pdf",
+  "totalWords": 5313,
+  "totalPages": 6,
+  "totalChapters": 2,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 313,
+      "pageCount": 1,
+      "startPage": 6
+    }
+  ]
+}
