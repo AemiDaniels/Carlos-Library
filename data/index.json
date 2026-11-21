@@ -163,6 +163,15 @@
       "totalChapters": 40
     },
     {
+      "id": "i-am-in-eskew",
+      "title": "I Am In Eskew",
+      "author": "Aemi Daniels",
+      "description": "",
+      "totalWords": 126248,
+      "totalPages": 127,
+      "totalChapters": 26
+    },
+    {
       "id": "imprint-academic",
       "title": "Imprint Academic",
       "author": "Unknown",
@@ -514,5 +523,5 @@
       "totalChapters": 60
     }
   ],
-  "updatedAt": "2026-11-21T10:43:23.181Z"
-} 
+  "updatedAt": "2026-11-21T11:29:02.921Z"
+}
